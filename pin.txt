@@ -1,0 +1,5 @@
+#wpisz pin gry twojego zespo�u ze strony http://ztv.ire.pw.edu.pl/proze/projekty/zespo%C5%82y.html
+pin=6356	
+
+#wpisz nazwiska autor�w projektu
+autorzy=Damian Lysomirski

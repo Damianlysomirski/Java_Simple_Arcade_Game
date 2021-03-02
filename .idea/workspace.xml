@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5683d61a-45fa-403c-a401-7f534804dbe6" name="Default Changelist" comment="Version 1.0">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/high scores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/kursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/plik.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/plik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ptak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ptak2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ptak3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/valley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROZE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/par.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/GeneratorPlikuParametrycznegoGry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Gra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Gun.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/MenuNowe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/PIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Parsujaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Reload.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Start.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/Tlo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/blink2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/par.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/pin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pClMhHSC2xFd1rgOoXYSFwBIGK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34712642" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Gra">
+    <configuration name="Gra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.Gra" />
+      <module name="PROZE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projekt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parsujaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.Parsujaca" />
+      <module name="PROZE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projekt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gra" />
+        <item itemvalue="Application.Parsujaca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5683d61a-45fa-403c-a401-7f534804dbe6" name="Default Changelist" comment="" />
+      <created>1614694912938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614694912938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="Version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
+  </component>
+</project>
